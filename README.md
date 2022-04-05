@@ -1,2 +1,9 @@
-# projectoAbi
-Esto es un ejemplo para Abi, por que la uiero mucho
+# Projecto de Abigail :*
+
+Descripcion del projecto...
+
+## Contributing
+Aca agregan el articulo original o el projecto
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
